@@ -1,6 +1,7 @@
 # Integration Scoping Checklist — The Semantic Layer
 
 **Purpose:** The questions that have to be answered before an integration can be scoped, estimated, or built.
+
 **Scope:** This is not about transport. REST, webhooks, OAuth and iPaaS platforms move data between systems, and when they fail they fail loudly — a call errors, a token expires, a queue backs up. This checklist covers the layer underneath: whether the data still means the same thing after it arrives. That layer fails **silently**. The interface reports success, the records land, and the divergence surfaces weeks later in a reconciliation, a report, or an audit.
 
 No platform answers these questions. They are answered by someone who understands what the data means in the business process it came from.
