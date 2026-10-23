@@ -1,10 +1,12 @@
 # Case: Diagnosing Cross-System Failures Without Access to the Interface
 
+
 **Domain:** Aviation MRO / Parts Trading — ERP integrated with customer-side financial systems
+
 **Role:** Business systems advisor — first point of diagnosis
+
 **Nature of the problem:** Recurring class of problem rather than a single incident: locating the point of failure in a system-to-system exchange with no access to the interface, its logs, or the receiving system
 
----
 
 ## 1. The Presenting Question
 
