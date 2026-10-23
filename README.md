@@ -30,7 +30,7 @@ Future cases will cover areas such as:
 - document and data semantics,
 - process ownership and control design.
 
-For KPI and reporting work — where the business definition matters more than the calculation — see [erp-bi-scoping-framework](https://github.com/<your-username>/erp-bi-scoping-framework).
+For KPI and reporting work — where the business definition matters more than the calculation — see [erp-bi-scoping-framework](https://github.com/CarolineL-Analyst/erp-bi-scoping-framework).
 
 ## About the Cases
 
