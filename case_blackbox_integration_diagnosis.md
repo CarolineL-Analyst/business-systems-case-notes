@@ -93,4 +93,4 @@ Treating all four as "an integration issue" sends the problem to the wrong team 
 
 ---
 
-**Related:** [Integration Scoping Checklist](../frameworks/integration_scoping_checklist.md) — §1 Meaning and §4 Status Mapping (translation errors), §2 Identity and §6 Sequence (reference resolution: what must exist in the target before a record is accepted), §7 Failure Semantics (the transmission row).
+**Related:** [Integration Scoping Checklist](integration_scoping_checklist.md) — §1 Meaning and §4 Status Mapping (translation errors), §2 Identity and §6 Sequence (reference resolution: what must exist in the target before a record is accepted), §7 Failure Semantics (the transmission row).
