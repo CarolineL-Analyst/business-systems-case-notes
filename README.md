@@ -6,7 +6,7 @@ The cases are drawn from real ERP and cross-system scenarios in aviation MRO and
 
 ## Cases
 
-### [Diagnosing Cross-System Failures Without Access to the Interface](cases/case_blackbox_integration_diagnosis.md)
+### [Diagnosing Cross-System Failures Without Access to the Interface](case_blackbox_integration_diagnosis.md)
 
 **Focus:** Integration diagnosis, source/target reasoning, evidence selection, root-cause isolation
 
