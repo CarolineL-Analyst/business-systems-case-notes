@@ -16,7 +16,7 @@ This case sets out a hypothesis-driven approach to separating source logic, mapp
 
 ## Frameworks
 
-### [Integration Scoping Checklist — The Semantic Layer](frameworks/integration_scoping_checklist.md)
+### [Integration Scoping Checklist — The Semantic Layer](integration_scoping_checklist.md)
 
 The questions that have to be answered before an integration can be reliably scoped, estimated, or built: meaning, identity and matching keys, grain, status mapping, ownership, sequence, failure handling, and reconciliation. The focus is not transport technology, but whether data still means the same thing after it crosses a system boundary.
 
