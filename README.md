@@ -6,7 +6,7 @@ The cases are drawn from real ERP and cross-system scenarios in aviation MRO and
 
 ## Cases
 
-### [Diagnosing Cross-System Failures Without Access to the Interface](cases/case_blackbox_integration_diagnosis.md)
+### [Diagnosing Cross-System Failures Without Access to the Interface](case_blackbox_integration_diagnosis.md)
 
 **Focus:** Integration diagnosis, source/target reasoning, evidence selection, root-cause isolation
 
@@ -24,7 +24,7 @@ The correction could not be an in-place edit. Each step of the reversal-and-reis
 
 ## Frameworks
 
-### [Integration Scoping Checklist — The Semantic Layer](frameworks/integration_scoping_checklist.md)
+### [Integration Scoping Checklist — The Semantic Layer](integration_scoping_checklist.md)
 
 The questions that have to be answered before an integration can be reliably scoped, estimated, or built: meaning, identity and matching keys, grain, status mapping, ownership, sequence, failure handling, and reconciliation. The focus is not transport technology, but whether data still means the same thing after it crosses a system boundary.
 
@@ -37,7 +37,7 @@ Future cases will cover areas such as:
 - document and data semantics,
 - process ownership and control design.
 
-For KPI and reporting work — where the business definition matters more than the calculation — see [erp-bi-scoping-framework](https://github.com/<your-username>/erp-bi-scoping-framework).
+For KPI and reporting work — where the business definition matters more than the calculation — see [erp-bi-scoping-framework](https://github.com/CarolineL-Analyst/erp-bi-scoping-framework).
 
 ## About the Cases
 
