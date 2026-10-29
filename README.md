@@ -14,7 +14,7 @@ When interface logs and the receiving system are unavailable, diagnosis has to p
 
 This case sets out a hypothesis-driven approach to separating source logic, mapping / reference resolution, transmission, and downstream treatment — and includes a real example where a previously successful exchange failed because a referenced account had been removed in the receiving system.
 
-### [Correcting a Sales Order Raised Against the Wrong Customer — After Invoicing and Shipment](https://github.com/CarolineL-Analyst/business-systems-case-notes/blob/main/case_wrong_customer_invoiced_order.md)
+### [Correcting a Sales Order Raised Against the Wrong Customer — After Invoicing and Shipment](case_wrong_customer_invoiced_order.md)
 
 **Focus:** Posted transaction correction, financial and audit traceability, airworthiness documentation
 
