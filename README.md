@@ -2,7 +2,7 @@
 
 A growing collection of short, anonymized cases on how ambiguous enterprise-system problems are diagnosed, framed, and translated into practical system, data, process, or control decisions.
 
-The cases are drawn from real ERP and cross-system scenarios in aviation MRO and parts trading. They are intentionally concise: the goal is not to document every implementation detail, but to make the reasoning visible — what had to be established, how the problem was localized, what evidence mattered, where ownership sat, and what principle could be reused elsewhere.
+The cases are drawn from real enterprise-system scenarios, primarily in aviation MRO and parts trading. They are intentionally concise: the goal is not to document every implementation detail, but to make the reasoning visible — what had to be established, how the problem was localized, what evidence mattered, where ownership sat, and what principle could be reused elsewhere.
 
 ## Cases
 
@@ -14,7 +14,7 @@ When interface logs and the receiving system are unavailable, diagnosis has to p
 
 This case sets out a hypothesis-driven approach to separating source logic, mapping / reference resolution, transmission, and downstream treatment — and includes a real example where a previously successful exchange failed because a referenced account had been removed in the receiving system.
 
-### [Correcting a Sales Order Raised Against the Wrong Customer — After Invoicing and Shipment](cases/case_wrong_customer_invoiced_order.md)
+### [Correcting a Sales Order Raised Against the Wrong Customer — After Invoicing and Shipment](https://github.com/CarolineL-Analyst/business-systems-case-notes/blob/main/case_wrong_customer_invoiced_order.md)
 
 **Focus:** Posted transaction correction, financial and audit traceability, airworthiness documentation
 
